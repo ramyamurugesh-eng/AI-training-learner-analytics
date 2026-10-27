@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python bytecode / cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local secrets / environment variables
+.env
+.env.*
+*.key
+*.pem
+secrets.*
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

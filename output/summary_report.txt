@@ -1,0 +1,22 @@
+AI Training & Learner Performance Analytics - Summary Report
+============================================================
+
+Number of learners analysed: 10
+Class average (all learners): 76.00
+
+Highest-scoring learner:
+  Gauri - Average: 94.00, Grade: A
+
+Lowest-scoring learner:
+  Esha - Average: 57.67, Grade: D
+
+Subject-wise averages:
+  Math: 75.80
+  Science: 76.50
+  English: 75.70
+
+Grade distribution:
+  A: 2 learner(s)
+  B: 3 learner(s)
+  C: 3 learner(s)
+  D: 2 learner(s)
